@@ -22,13 +22,14 @@ def normalizedata():
   return vals
 
 def getgridcoords(N):
-  i = np.linspace(0,1,N)
+  s = 0.5/N
+  i = np.linspace(s,1-s,N)
   x,y = np.meshgrid(i,i)
   x=x.reshape((N**2))
   y=y.reshape((N**2))
   return np.array([x,y])
 
-N=5
+N=10
 def createfeatmat(N):
   grid = getgridcoords(N).T
   featmat = np.zeros((len(vals),N**2))
