@@ -1,9 +1,9 @@
 {
-    "train_pairs_path": "/Users/EliFriedman/Dropbox/School/Senior/ML/FinalProject/SUP3data_text/CEdata_train_pairs.csv",
-    "train_target_path": "/Users/EliFriedman/Dropbox/School/Senior/ML/FinalProject/SUP3data_text/CEdata_train_target.csv",
-    "train_info_path": "/Users/EliFriedman/Dropbox/School/Senior/ML/FinalProject/SUP3data_text/CEdata_train_publicinfo.csv",
-    "valid_pairs_path": "/Users/EliFriedman/Dropbox/School/Senior/ML/FinalProject/SUP3data_text/CEdata_valid_pairs.csv",
-    "valid_info_path": "/Users/EliFriedman/Dropbox/School/Senior/ML/FinalProject/SUP3data_text/CEdata_valid_publicinfo.csv",
-    "model_path": "/Users/EliFriedman/Dropbox/School/Senior/ML/FinalProject/SUP3data_text/Models/basic_python_benchmark.pickle",
-    "submission_path": "/Users/EliFriedman/Dropbox/School/Senior/ML/FinalProject/SUP3data_text/Submissions/basic_python_benchmark.csv"
+    "train_pairs_path": "/Users/EliFriedman/Dropbox/School/Senior/ML/FinalProject/CEfinal_train_text/CEfinal_train_pairs.csv",
+    "train_target_path": "/Users/EliFriedman/Dropbox/School/Senior/ML/FinalProject/CEfinal_train_text/CEfinal_train_target.csv",
+    "train_info_path": "/Users/EliFriedman/Dropbox/School/Senior/ML/FinalProject/CEfinal_train_text/CEfinal_train_publicinfo.csv",
+    "valid_pairs_path": "/Users/EliFriedman/Dropbox/School/Senior/ML/FinalProject/CEfinal_train_text/CEfinal_valid_pairs.csv",
+    "valid_info_path": "/Users/EliFriedman/Dropbox/School/Senior/ML/FinalProject/CEfinal_train_text/CEfinal_valid_publicinfo.csv",
+    "model_path": "/Users/EliFriedman/Dropbox/School/Senior/ML/FinalProject/CEfinal_train_text/Models/basic_python_benchmark.pickle",
+    "submission_path": "/Users/EliFriedman/Dropbox/School/Senior/ML/FinalProject/CEfinal_train_text/Submissions/basic_python_benchmark.csv"
 }
