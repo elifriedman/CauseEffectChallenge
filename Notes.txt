@@ -1,0 +1,15 @@
+We say that X is a cause of Y (and Y is an effect of X) and denote this by X→Y if the probability distribution of Y changes for some experimental manipulation of X [1].
+
+[1]
+@article{causation_def,
+  doi = {10.1186/1471-2164-13-s8-s22},
+  url = {http://dx.doi.org/10.1186/1471-2164-13-S8-S22},
+  year  = {2012},
+  publisher = {Springer Science $\mathplus$ Business Media},
+  volume = {13},
+  number = {Suppl 8},
+  pages = {S22},
+  author = {Alexander Statnikov and Mikael Henaff and Nikita I Lytkin and Constantin F Aliferis},
+  title = {New methods for separating causes from effects in genomics data},
+  journal = {{BMC} Genomics}
+}
